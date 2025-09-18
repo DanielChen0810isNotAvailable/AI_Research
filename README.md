@@ -1,3 +1,2 @@
 # AI_Research
-
-put some stuff - all data for the project
+<p>An overview of the repository and guidelines for collaboration.</p>
